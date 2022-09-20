@@ -1,0 +1,61 @@
+body {
+  background: #333138;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#headshot img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin-bottom: 20px;
+  margin: 0 auto;
+  width: 768px;
+  color: #FFFFFF
+}
+
+
+#container {
+  width: 90%;
+  max-width: 800px;
+  background: #8D99AE;
+  margin: 0 auto;
+  padding: 30px;
+  }
+
+section {
+  padding: 20px 0 0;
+}
+
+#personality img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 400px;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+h2 {
+  text-align: center;
+}
+
+#contactDetails {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
